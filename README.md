@@ -32,7 +32,15 @@
     <img alt="Downloads"
       src="https://img.shields.io/pypi/dm/composio-core?label=Downloads&style=plastic&logo=github&color=blue&cacheSeconds=60">
   </a>
+  <a href="https://deepwiki.com/">
+    <img
+      alt="Ask DeepWiki.com"
+      src="https://devin.ai/assets/deepwiki-badge.png"
+      height="20"
+    />
+  </a>
 </p>
+
 
 <h2 align="center">
   Production Ready Toolset for AI Agents
